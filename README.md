@@ -1,3 +1,1 @@
-# Capstone
-
-Front-End Programming 
+# capstone
